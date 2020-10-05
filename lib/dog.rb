@@ -5,6 +5,9 @@ class Dog
     puts name.strip
   end
 
+  def name(name)
+    puts name
+  end
 
 
 
