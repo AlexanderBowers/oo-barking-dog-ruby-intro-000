@@ -6,9 +6,9 @@ class Dog
     puts name.strip
   end
 
-  def name
-    puts name
-  end
+  #def name
+    #puts name
+  #end
 
   def bark
     puts "woof!"
