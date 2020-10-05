@@ -3,7 +3,7 @@ class Dog
 
 
   def name=(name)
-    puts name.strip
+    name = new_name
   end
 
   def name
